@@ -1,10 +1,13 @@
 ### 📊 Project Insights & Visuals
 
 #### 1. Daily Market Movement Tracking
-![Daily Price Change](outputs/crypto_dashboard_preview.png)
+![Daily Price Change](/outputs/price_change_24_hr.gif)
 
 #### 2. Market Capitalization Dominance
-![Ecosystem Share Dominance](outputs/market_share_preview.png)
+![Ecosystem Share Dominance](/outputs/market_concentration.gif)
+
+#### 3. Market Liquidity
+![Market liquidity Analysis](/outputs/market_liquidity.gif)
 
 
 ### 🔍 Key Market Insights (Sample Run Analysis)
