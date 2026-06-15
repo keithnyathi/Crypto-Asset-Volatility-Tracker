@@ -1,6 +1,8 @@
 ### Project objective:
 #### This code extracts the top ten crypto coins from CoinGecko and visualizes the coins based on different metrics.
 
+[View the Python Notebook here](crypto_analysis.ipynb)
+
 ### 📊 Project Insights & Visuals
 
 #### 1. Daily Market Movement Tracking
